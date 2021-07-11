@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&display=swap');
+body{
+    font-family:'Merriweather', serif;
+    background-color:rgb(201, 202, 187)
+}
+h1{
+    font-size:70px;
+    text-align:center;
+    text-transform: uppercase;
+    background-color:rgb(37, 37, 119);
+    color:white;
+}
+p{
+    
+    font-size:16px;
+    word-spacing:3px;
+    text-align:center;
+}
+h3{
+    text-align:center;
+    text-transform:uppercase;
+    font-weight:900; 
+}
+.title{/* # = this is an id selector*/
+    
+}
+.text{/* . = this is a class selector*/
+    
+}
+.text-p{
+    font-size:16px;
+
+    
+}
+.center{
+   
+}
